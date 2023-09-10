@@ -1,0 +1,15 @@
+.flex{
+    display: flex;
+}
+.items-in-center{
+align-items: center;
+}
+.justify-between{
+
+    justify-content: space-between;
+
+}
+
+.button{
+    padding: 0.5rem 1.5rem ;
+}
